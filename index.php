@@ -6,7 +6,7 @@
 
 <p>My first paragraph.</p>
   
-  <img src="logo_large_nobg.png" alt="School Logo">
+  <img src="logo_large_nobg.png" alt="W3Schools.com" width="250" height="250">
 
 </body>
 </html>
