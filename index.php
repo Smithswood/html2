@@ -6,7 +6,7 @@
 
 <p>My first paragraph.</p>
 
-  <img src="![images](https://github.com/Smithswood/html2/images/square-logo.png)" alt="W3Schools.com" width="250" height="250">
+  <img src="![/index.php](https://github.com/Smithswood/html2/images/square-logo.png)" alt="W3Schools.com" width="250" height="250">
 
 </body>
 </html>
