@@ -6,8 +6,8 @@
 
 <p>My first paragraph.</p>
   html2
-   logo_large_nobg.png.png
-  <img src="![](/logo_large_nobg.png.png)" alt="W3Schools.com" width="250" height="250">
+   logo_large_nobg.png
+  <img src="![](/logo_large_nobg.png)" alt="W3Schools.com" width="250" height="250">
 
 </body>
 </html>
